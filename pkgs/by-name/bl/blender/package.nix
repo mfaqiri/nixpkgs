@@ -104,7 +104,7 @@ let
     # Look at upstream Blender BuildBot logs to determine the current version,
     # see Git blame here for historical details
     url = "https://developer.download.nvidia.com/redist/optix/v7.4/OptiX-7.4.0-Include.zip";
-    hash = "sha256-ca08XetwaUYC9foeP5bff9kcDfuFgEzopvjspn2s8RY=";
+    hash = "sha256-ca9160ee3d8741e8e255cb0aee506a9270ef392512aa9c584f130a91df9fb394"
   };
 in
 
