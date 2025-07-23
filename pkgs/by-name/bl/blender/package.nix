@@ -110,7 +110,7 @@ in
 
 stdenv'.mkDerivation (finalAttrs: {
   pname = "blender";
-  version = "4.4.3";
+  version = "4.5.0";
 
   src = fetchzip {
     name = "source";
